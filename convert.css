@@ -29,7 +29,7 @@ html, body {
     min-height: 45%;
     background-color: #388B84;
     padding: 4rem 2rem;
-    gap: 1rem;
+    gap: 1.05rem;
     display: flex;
     justify-content: center;
     align-items: center;
